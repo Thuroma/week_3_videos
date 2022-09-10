@@ -1,0 +1,16 @@
+.jumbotron {
+    background-color: #84A98C;
+    color: #2F3E46;
+    font-family: 'Roboto Mono', monospace;
+}
+
+body {
+    font-family: 'Lora', serif;
+    background-color: #CAD2C5;
+}
+
+#submit-button {
+    color: #2F3E46;
+    border-color: #2F3E46;
+    
+}

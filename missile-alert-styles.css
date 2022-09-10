@@ -1,0 +1,15 @@
+#real-alert {
+    color: red;
+    background-color: black;
+    border-style: double;
+    border-width: thick;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+#test-only {
+    outline: 2px dashed green;
+    color: green;
+}
